@@ -1,0 +1,16 @@
+{
+  "enabled": false,
+  "sync_interval_minutes": 30,
+  "skip_while_reviewing": true,
+  "sync_after_review": false,
+  "backup_before_periodic_sync": true,
+  "minimum_backup_interval_minutes": 60,
+  "mirror_folder": "",
+  "mirror_keep": 10,
+  "startup_integrity_check": true,
+  "show_notifications": false,
+  "minimum_free_space_gib": 2,
+  "safety_policy_version": 1,
+  "safety_pauses": {},
+  "last_verified_backups": {}
+}
